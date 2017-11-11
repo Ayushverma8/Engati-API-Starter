@@ -1,0 +1,42 @@
+{
+    "data": {
+        "type": "carousel",
+        "templates": [{
+                "title": "20% Off",
+                "image_url": "https://viditgupta.me/botimage/footwear/woodlandlogo.png",
+                "buttons": [{
+                    "payload": "https://viditgupta.me/botimage/footwear/woodlandmap.png",
+                    "title": "View Location",
+                    "type": "web_url"
+                }]
+            },
+            {
+                "title": "35% Off",
+                "image_url": "https://viditgupta.me/botimage/cloth/zodiaclogo.png",
+                "buttons": [{
+                    "payload": "https://viditgupta.me/botimage/cloth/zodiacmap.png",
+                    "title": "View Location",
+                    "type": "web_url"
+                }]
+            },
+            {
+                "title": "35% Cashback",
+                "image_url": "https://viditgupta.me/botimage/electronics/cromalogo.png",
+                "buttons": [{
+                    "payload": "https://viditgupta.me/botimage/electronics/cromamap.png",
+                    "title": "View Location",
+                    "type": "web_url"
+                }]
+            },
+            {
+                "title": "Free Installation with Bravia",
+                "image_url": "https://viditgupta.me/botimage/electronics/sonylogo.png",
+                "buttons": [{
+                    "payload": "https://viditgupta.me/botimage/electronics/sonymap.png",
+                    "title": "View Location",
+                    "type": "web_url"
+                }]
+            }
+        ]
+    }
+}
