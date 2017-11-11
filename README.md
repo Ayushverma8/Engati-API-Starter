@@ -33,7 +33,7 @@ Create a `engati.json` file
 }
 
 ```
-Start JSON Server
+## Start JSON Server
 
 ```bash
 $ npm start
@@ -43,4 +43,16 @@ Now if you go to [http://localhost:3000/data](http://localhost:3000/data), you'l
 
 ```json
 { "id": 1, "title": "json-server", "author": "typicode" }
+```
+
+
+
+### Plural routes
+
+```
+GET    /data
+
+POST   /data
+PUT    /data
+
 ```
