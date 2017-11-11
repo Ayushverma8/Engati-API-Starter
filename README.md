@@ -51,7 +51,6 @@ Now if you go to [http://localhost:3000/data](http://localhost:3000/data), you'l
 
 ```
 GET    /data
-
 POST   /data
 PUT    /data
 
