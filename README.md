@@ -2,6 +2,7 @@
 
 * Useful for developers who need a quick back-end for prototyping and mocking
 ## Example
+![Image of Yaktocat](https://raw.githubusercontent.com/Ayushverma8/engati/master/carbon%20(1).png?token=AOo3d6ti3ZuVissvP4LoCu7Oykbkhc4-ks5aD-KdwA%3D%3D)
 
 Create a `engati.json` file
 
