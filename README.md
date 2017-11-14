@@ -43,9 +43,20 @@ $ npm start
 
 Now if you go to [http://localhost:3000/data](http://localhost:3000/data), you'll get
 
-```json
-{ "id": 1, "title": "json-server", "author": "typicode" }
-```
+```javascript
+'use strict';
+
+module.exports = function(Engati) {
+let jsonData = {};
+jsonData.data = {};
+jsonData.data.type = "carousel";
+jsonData.data.templates = [];
+jsonData.data.templates.push({
+	"title": "title for",
+	"image_url": "hosted image",
+});
+console.log(jsonData);
+};```
 
 
 
