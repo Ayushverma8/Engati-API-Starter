@@ -64,9 +64,9 @@ console.log(jsonData);
 
 ### Plural routes
 ```
-GET    /data <br>
-POST   /data <br>
-PUT    /data <br>
+GET    /data 
+POST   /data 
+PUT    /data 
 ```
 
 
