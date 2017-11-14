@@ -56,9 +56,11 @@ jsonData.data.templates.push({
 	"image_url": "hosted image",
 });
 console.log(jsonData);
-};```
+};
+```
 
 
+<br>
 
 ### Plural routes
 ```
@@ -68,8 +70,7 @@ PUT    /data <br>
 ```
 
 
-
-### Official Docs
+## Official Docs
 
  * [Engati](https://engati.com/) for Updated Documemtation
  * [Blog](http://blog.engati.com/) for the awesome Tutorials
