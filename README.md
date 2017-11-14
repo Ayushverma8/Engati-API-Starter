@@ -66,3 +66,11 @@ GET    /data <br>
 POST   /data <br>
 PUT    /data <br>
 ```
+
+
+
+### Official Docs
+
+ * [Engati](https://engati.com/) for Updated Documemtation
+ * [Blog](http://blog.engati.com/) for the awesome Tutorials
+ 
