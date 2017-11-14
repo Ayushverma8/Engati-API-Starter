@@ -41,7 +41,7 @@ Create a `engati.json` file
 $ npm start
 ```
 
-Now if you go to [http://localhost:3000/data](http://localhost:3000/data), you'll get
+Now if you go to [http://localhost:3000/data](http://localhost:3000/data), you'll get data similar to Following Schema
 
 ```javascript
 'use strict';
