@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/1f6f9a04eafca27e7b30/maintainability)](https://codeclimate.com/github/Ayushverma8/Engati-API-Starter/maintainability)
+
 ## Introduction
 * Get a full REST API for Consuming GET Request , Specially defined for Engati flavored Schema
 
